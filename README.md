@@ -15,7 +15,7 @@ This project is designed to run entirely within Google colab. The Jupyter Notebo
 
 ### 1. Prerequisites (Model Weights)
 To reproduce the results using the pre-trained weights, you need the model checkpoint file.
-1.  Download the `VLPromptLearner.zip` file provided with this repository.
+1.  Download the `VLPromptLearner.zip` file from here: [VLPromptLearner.zip](https://drive.google.com/file/d/1U4pLrXenjHBn2qCR76yyvGiVhGuiHG5I/view?usp=sharing), or from the original author's drive.
 2.  Upload this zip file to the root directory of your Google Drive. (The notebook expects the file to be at `/content/drive/MyDrive/VLPromptLearner.zip`. If you place it elsewhere, please update the `MY_ZIP_NAME` path in the notebook.)
 
 ### 2. Execution Steps
