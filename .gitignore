@@ -1,0 +1,20 @@
+# Ignore Datasets and Outputs
+PromptSRC/data/
+PromptSRC/output/
+Dassl.pytorch/build/
+Dassl.pytorch/dist/
+Dassl.pytorch/*.egg-info/
+
+# Ignore Large Files everywhere
+*.pth
+*.pth.tar
+*.tgz
+*.tar
+*.gz
+*.zip
+*.mat
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
